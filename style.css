@@ -1,0 +1,26 @@
+.v1{
+    margin:auto;
+    width: 50%;
+}
+#content{
+  margin: auto;
+  border-radius: 20px;
+  box-shadow: 2px 2px 2px 2px rgb(199, 199, 199);
+  margin-top: 10px;
+}
+.btn1{
+    margin: auto;
+    margin-top: 10px;
+    margin-left: 170px;
+}
+.ima1{
+    margin-left: 10px;
+}
+.tp{
+    margin-top: -10px;
+    margin: auto;
+    
+}
+.t1{
+    margin: auto;
+}
